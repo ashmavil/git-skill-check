@@ -2,6 +2,7 @@
 repository for git skill check
 
 ## Summary
+
 In this chapter we will check your skill to checkkout a new banch and make a pull request.
 
 ## Follow to the instructions written below
@@ -14,3 +15,4 @@ In this chapter we will check your skill to checkkout a new banch and make a pul
 A. I was making changes, removing branched and I had fun.
 
 This is the end. Thank you for your cooporation:tada:
+
