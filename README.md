@@ -9,14 +9,14 @@ Answer to the questions and push your answer
 
 ① What is your favorite food?
 
-A.
+A.My favorite food is chicken adobo homemade.
 
 ② What is your favorite movie?
 
-A.
+A.My favorite movie is frozen disney.
 
 ③ What is your favorite proverb?
 
-A.
+A.My favorite proverb is " Dream Big, Work hard "
 
 After you have pushed your answer. Checkout to branch `chapter-2` for the skill check.
